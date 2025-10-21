@@ -1,0 +1,103 @@
+{
+    "books": [
+        {
+            "created_at": "2023-04-15 21:01:38",
+            "description": null,
+            "id": 5,
+            "image": "graphnotebook.png",
+            "link": "https://www.amazon.com/dp/B0BT16G5C5",
+            "title": "Graph Paper Notebook 120 pages 6 X 9 Inch",
+            "updated_at": "2023-04-15 21:01:38"
+        },
+        {
+            "created_at": "2023-04-15 21:03:10",
+            "description": "Book of 120 8/12 by 11-inch blank recipe pages to collect your favorite recipes. Collect your own recipes or other recipes that you love.",
+            "id": 6,
+            "image": "MyRecipesCover.png",
+            "link": "https://www.amazon.com/dp/B0BRDCPJPF",
+            "title": "My Recipes: A Journal of My Favorite Recipes",
+            "updated_at": "2023-04-15 21:03:10"
+        },
+        {
+            "created_at": "2023-04-16 02:10:21",
+            "description": "Whale cover, college ruled notebook. 120 pages, 6X9 inches. Perfect for notes, thoughts, ideas, journaling, Great size to carry around. Fits in your backpack, purse, briefcase, or handbag. Ideal for moms, dads, kids, or students.",
+            "id": 7,
+            "image": "whalecover.png",
+            "link": "https://www.amazon.com/dp/B0C1JK3LTY",
+            "title": "Notebook/Composition Journal: College Ruled, 120 pages 6X9 Inches, Whale Cover",
+            "updated_at": "2023-04-16 02:10:21"
+        },
+        {
+            "created_at": "2023-04-16 02:19:23",
+            "description": "Vehicle Mileage Journal for Business or Personal use",
+            "id": 8,
+            "image": "mileagelog.png",
+            "link": "https://www.amazon.com/dp/B0BW2Y4G9F",
+            "title": "Vehicle Mileage Log Book",
+            "updated_at": "2023-04-16 02:19:23"
+        },
+        {
+            "created_at": "2023-04-16 02:20:09",
+            "description": "Bookkeeping Ledger for Tracking Daily Cash Income and Payments",
+            "id": 9,
+            "image": "pettycashlog.png",
+            "link": "https://www.amazon.com/dp/B0BV4DRT58",
+            "title": "Petty Cash Log Book",
+            "updated_at": "2023-04-16 02:20:09"
+        },
+        {
+            "created_at": "2023-04-23 03:28:20",
+            "description": "Dia De Los Muertos / Day of the Dead themed cover, college ruled notebook. 200 pages, 6X9 inches. Perfect for notes, thoughts, ideas, journaling, Great size to carry around. Fits in your backpack, purse, briefcase, or handbag. Ideal for moms, dads, kids, or students.",
+            "id": 10,
+            "image": "skullcover.png",
+            "link": "https://www.amazon.com/dp/B0C2S47JNS",
+            "title": "Day of the Dead Notebook: College Ruled, 200 pages 6X9 Inches, Sugar Skull cover",
+            "updated_at": "2023-04-23 03:28:20"
+        },
+        {
+            "created_at": "2023-06-16 15:39:16",
+            "description": "Programmers Notebook",
+            "id": 11,
+            "image": "programmersnotebook.png",
+            "link": "https://www.amazon.com/dp/B0C87PX14Q?ref_=pe_3052080_397514860",
+            "title": "So Many  Bugs, So Little Time",
+            "updated_at": "2023-06-16 15:39:16"
+        },
+        {
+            "created_at": "2024-01-19 18:42:38",
+            "description": "Step into a world of tranquility and self-discovery with \"Color Me Inspired!,\" an Inspirational Quote Coloring Book designed exclusively for adults. This meticulously crafted coloring book offers a therapeutic escape from the chaos of everyday life, guiding you on a journey of mindfulness, relaxation, and creative expression.\r\nFeaturing 50 inspirational quotes with unique designs for hours of relaxing and enjoyable coloring. Each design is on a separate page to prevent bleed-through. Designed to motivate, inspire, and uplift your spirt.\r\nThe ideal gift for teens, parents, spouses, aunts, uncles, students, or teachers.\r\nIndulge in the therapeutic art of coloring, center your thoughts, and find your inner calm as you bring these beautiful designs to life. \"Color Me Inspired!\" is more than just a coloring book; it's a path to mindfulness, self-discovery, and inner peace. Embrace the power of creativity and positive affirmations today with this enchanting coloring book for adults.",
+            "id": 14,
+            "image": "quotescover.png",
+            "link": "https://www.amazon.com/dp/B0CN333GCK",
+            "title": "Color Me Inspired!: Inspirational Quote Coloring Book for Adults",
+            "updated_at": "2024-01-19 18:42:38"
+        },
+        {
+            "created_at": "2024-01-19 18:43:50",
+            "description": "\"ABColor\" is the perfect coloring book for your little ones to embark on an exciting journey through the alphabet! This delightful and educational coloring book is specifically designed for preschoolers, aged 3 to 5, to help them learn the alphabet while nurturing their coloring creativity.\r\nInside these pages, young children will discover a world filled with animals and objects each corresponding to a letter of the alphabet. This interactive coloring book is a gateway to fostering essential early literacy skills in a fun and engaging way.\r\nKey Features:\r\n\r\n    Easy-to-Color Designs: Each page features large, clear outlines, perfect for little hands to color within the lines and create beautiful masterpieces. The designs are simple and straightforward, ideal for preschoolers' motor skills development.\r\n    Educational Experience: \"ABColor\" helps children learn the alphabet while enjoying the creativity of coloring.\r\n    Hours of Fun: With 26 unique designs, your child will enjoy countless hours of creative fun while reinforcing their understanding of the alphabet.\r\n    Family Bonding: Coloring time is an excellent opportunity for parents, guardians, and caregivers to join in the fun and engage in quality bonding moments with their little ones. Talk about the pictures, letters, and words to encourage learning through play.",
+            "id": 15,
+            "image": "abccover.png",
+            "link": "https://www.amazon.com/dp/B0CLYCXX6J",
+            "title": "ABColor: Alphabet coloring book for preschoolers",
+            "updated_at": "2024-01-19 18:43:50"
+        },
+        {
+            "created_at": "2023-09-29 15:27:17",
+            "description": "Notebook for blank natal horoscopes. 101 blank charts. Keep all of your natal charts in one book. Large clean simple form. Makes a great gift for any astrologer or astrology student. Each facing page contains lined page for interpretation/notes. Includes grid for aspecting and qualities and elements.",
+            "id": 13,
+            "image": "simplechartcover.png",
+            "link": "https://www.amazon.com/dp/B0CK3MXPSJ",
+            "title": "Blank Natal Chart Notebook: Standard chart forms",
+            "updated_at": "2023-09-29 15:27:17"
+        },
+        {
+            "created_at": "2024-01-19 18:50:39",
+            "description": "Notebook for blank natal horoscopes. 101 blank charts. Keep all of your natal charts in one book. Large deluxe form. Makes a great gift for any astrologer or astrology student. Each facing page contains lined page for interpretation/notes. Includes grid for aspecting and qualities and elements.",
+            "id": 16,
+            "image": "DeluxeChartCover.png",
+            "link": "https://www.amazon.com/dp/B0CKPTQD53",
+            "title": "Blank Natal Chart Notebook: Deluxe Chart Forms",
+            "updated_at": "2024-01-19 18:50:39"
+        }
+    ]
+}
