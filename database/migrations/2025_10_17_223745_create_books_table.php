@@ -17,6 +17,7 @@ return new class extends Migration
             $table->text('description')->nullable();
             $table->string('image');
             $table->string('link');
+            $table->integer('sort_order')->default(0);
             $table->timestamps();
         });
     }

@@ -8,7 +8,7 @@ use Illuminate\Http\Request;
 class HomeController extends Controller
 {
     public function index() {
-        $data['books'] = Book::All();
+        $data['books'] = Book::orderBy('sort_order')->get();
         return view('welcome')->with($data);
     }
 }

@@ -19,6 +19,7 @@ class BookSeeder extends Seeder
 
         $string = file_get_contents($path);
         $json_a = json_decode($string);
+        $sort_order = 0;
         foreach ($json_a as $books){
 
             foreach($books as $book) {
@@ -28,6 +29,7 @@ class BookSeeder extends Seeder
                     'image'=>$book->image,
                     'description'=>$book->description,
                     'link'=>$book->link,
+                    'sort_order'=> $sort_order+=10,
                 ]);
             }
         }
