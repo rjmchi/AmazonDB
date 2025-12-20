@@ -40,15 +40,7 @@
 
         <div class="m-4 p-5 border rounded bg-white">
             @foreach ($books as $book)
-                <div class="mb-5 p-4 border rounded bg-teal-50">
-                    <a href="{{ $book->link }}" class="flex">
-                        <img class="h-auto w-[200px]" src="{{ asset('/images/' . $book->image) }}">
-                        <div class="ml-4">
-                            <p class="text-2xl font-medium">{{ $book->title }}</p>
-                            <p class="mt-3">{{ $book->description }}</p>
-                        </div>
-                    </a>
-                </div>
+                <livewire:book-listing :book=$book wire:key='$book->id' />
             @endforeach
         </div>
 
