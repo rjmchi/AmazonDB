@@ -3,11 +3,13 @@
 namespace Database\Seeders;
 
 use App\Models\User;
-// use Illuminate\Database\Console\Seeds\WithoutModelEvents;
+use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 
 class DatabaseSeeder extends Seeder
 {
+    use WithoutModelEvents;
+
     /**
      * Seed the application's database.
      */
@@ -21,7 +23,12 @@ class DatabaseSeeder extends Seeder
             'password'=>'kether1330',
         ]);
 
-        $this->call([BookSeeder::class]);
+        User::create([
+            'name' => 'Robert',
+            'email' => 'robert@rjmchicago.com',
+            'password'=>'kether1330',
+        ]);        
 
+        $this->call([BookSeeder::class]);
     }
 }

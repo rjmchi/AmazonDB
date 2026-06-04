@@ -3,7 +3,6 @@
 namespace Database\Seeders;
 
 use App\Models\Book;
-
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 
@@ -14,7 +13,6 @@ class BookSeeder extends Seeder
      */
     public function run(): void
     {
-
         $path = database_path("books.json");
 
         $string = file_get_contents($path);
