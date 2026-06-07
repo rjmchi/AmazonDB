@@ -1,6 +1,7 @@
 <?php
 
 use App\Models\Book;
+use Flux\Flux;
 use Livewire\Component;
 
 new class extends Component
@@ -22,4 +23,12 @@ new class extends Component
         $this->book->save();
         $this->redirect(route('dashboard', true));
     }
+
+    public function delete(Book $book){
+        $book->delete($book->id);
+        Flux::toast(text:'Book has been deleted.', variant: 'success');
+        $this->redirect(route('dashboard', true));
+
+    }
+
 };

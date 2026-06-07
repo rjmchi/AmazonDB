@@ -10,7 +10,7 @@
         <p>Sort Order: {{ $book->sort_order }}</p>
 
         <flux:button icon="pencil" variant="primary" size="sm"/>
-        <flux:button icon="trash" variant="danger" size="sm"/>
+        <flux:button icon="trash" variant="danger" size="sm" wire:click='delete({{ $book->id }})'/>
 
         <flux:button icon="arrow-up" variant="primary" color="amber" size="sm" wire:click='moveUp'/>
         <flux:button icon="arrow-down" variant="primary" color="rose" size="sm" wire:click='moveDown'/>
