@@ -36,7 +36,8 @@ new class extends Component
         $this->reset();
 
         Flux::toast(text:'Book has been added.', variant: 'success');
-        $this->redirectRoute('dashboard', true);
+        // $this->redirectRoute(['dashboard'], true);
+        $this->redirect(route('dashboard'), true);
     }
 
     public function reorder() {
@@ -49,8 +50,8 @@ new class extends Component
             $book->save();
             $sort_order += 5;
         }
-        Flux::toast(text:'Book have been reorderd.', variant: 'success');
-        $this->redirectRoute('dashboard', true);        
+        Flux::toast(text:'Books have been reorderd.', variant: 'success');
+        $this->redirect(route('dashboard'), true);
     }
 
 };
