@@ -55,6 +55,24 @@
             "updated_at": "2023-04-23 03:28:20"
         },
         {
+            "created_at": "2023-04-23 03:28:20",
+            "description": "Dia De Los Muertos / Day of the Dead - Orange Cover, college ruled notebook. 200 pages, 6X9 inches. Perfect for notes, thoughts, ideas, journaling, Great size to carry around. Fits in your backpack, purse, briefcase, or handbag. Ideal for moms, dads, kids, or students.",
+            "id": 10,
+            "image": "diadelosmuertos-orange.png",
+            "link": "https://www.amazon.com/Day-Dead-Notebook-Orange-College/dp/B0GX9GGVKZ",
+            "title": "Day of the Dead Notebook - Orange Cover: College Ruled, 200 pages 6X9 Inches, Sugar Skull cover",
+            "updated_at": "2023-04-23 03:28:20"
+        },
+        {
+            "created_at": "2023-04-23 03:28:20",
+            "description": "Dia De Los Muertos / Day of the Dead Green cover, college ruled notebook. 200 pages, 6X9 inches. Perfect for notes, thoughts, ideas, journaling, Great size to carry around. Fits in your backpack, purse, briefcase, or handbag. Ideal for moms, dads, kids, or students.",
+            "id": 10,
+            "image": "diadelosmuertos-green.png",
+            "link": "https://www.amazon.com/Day-Dead-Notebook-Green-Cover/dp/B0GXB4RD1K",
+            "title": "Day of the Dead Notebook- Green Cover: College Ruled, 200 pages 6X9 Inches, Sugar Skull cover",
+            "updated_at": "2023-04-23 03:28:20"
+        },                
+        {
             "created_at": "2023-06-16 15:39:16",
             "description": "Programmers Notebook",
             "id": 11,
