@@ -2,6 +2,7 @@
 
 use App\Models\Book;
 use Flux\Flux;
+use Illuminate\Support\Facades\Storage;
 use Livewire\Component;
 
 new class extends Component
@@ -26,9 +27,9 @@ new class extends Component
 
     public function delete(Book $book){
         $book->delete($book->id);
+        Storage::disk('public')->delete($book->image);
         Flux::toast(text:'Book has been deleted.', variant: 'success');
         $this->redirect(route('dashboard', true));
-
     }
 
 };
